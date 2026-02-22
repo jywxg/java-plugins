@@ -73,16 +73,16 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "291049a9-f018-49db-97de-ddd76421af6c");
+        env.put("UUID", "6733da16-3100-4c88-a134-278e404dbea8");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "xserver.wgx.qzz.io");
-        env.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiN2ZmNmFmY2UtY2M0OC00OTk4LWFiODgtNDljYjMwMGUzMGQ4IiwicyI6Ik5UQXhPRFUyWVRBdE4yRm1ZeTAwWXpNd0xXSmtNakF0TlRRNE1USXdaV1F4WldZMCJ9");
+        env.put("ARGO_DOMAIN", "greathost.wxg.qzz.io");
+        env.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiNjk3YjFiZjMtOGJiYi00YTJhLWExN2EtY2YwNTdmOTk4ZDg0IiwicyI6Ik16ZzNaamhoWWpNdE5EY3dNQzAwTmpnM0xXSTNObVl0TmpkaU1UUXlORGM0TWpJMyJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25565");
+        env.put("HY2_PORT", "20320");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
